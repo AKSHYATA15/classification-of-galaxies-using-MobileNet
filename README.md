@@ -1,6 +1,6 @@
 # classification-of-galaxies-using-MobileNet
 
-Project Overview
+Project Overview ::
 This repository contains the implementation of a galaxy classification model as part of our Spartificial internship project. The goal was to develop a machine learning model that could accurately classify images of galaxies into different categories based on their morphology.
 
 Our approach involves using  deep learning model, specifically MobileNet and SqueezeNet, which are both efficient for such image classification tasks. The models was trained on a dataset of galaxy images (astroNN) , and it performs classification by analyzing the visual features of the input images.
@@ -14,9 +14,8 @@ The project leverages the MobileNet architecture, known for its efficiency on de
 
 How to Use
 Clone the Repository:
-
-bash
 Copy code
+
 git clone https://github.com/AKSHYATA15/classification-of-galaxies-using-MobileNet.git
 cd classification-of-galaxies-using-MobileNet
 
